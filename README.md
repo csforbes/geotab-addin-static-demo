@@ -1,1 +1,0 @@
-# geotab-addin-static-demo
